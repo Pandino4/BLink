@@ -8,7 +8,7 @@ body{
     margin-top: 4em;
 }
 
-#setion2{
+#section2{
     margin-top: 2em;
 }
 
@@ -19,6 +19,7 @@ button{
     background: transparent;
     cursor: pointer;
     border-radius: 27px;
+    margin-top: 1em;
 }
 
 img{
@@ -49,7 +50,3 @@ h1{
 h4{
     color: black;
 }
-
-
-
-
