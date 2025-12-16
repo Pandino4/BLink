@@ -2,6 +2,8 @@ body{
     text-align: center;
     font-style: italic;
     touch-action: pan-y;
+    color: rgb(60, 50, 45);
+    font-family: 'Quicksand', sans-serif;
 }
 
 #section1{
@@ -15,11 +17,12 @@ body{
 button{
     width: 350px;
     height: 60px;
-    border: 1px solid black;
-    background: transparent;
+    border: none;
+    background-color: rgb(210, 190, 170);
     cursor: pointer;
-    border-radius: 27px;
+    border-radius: 30px;
     margin-top: 1em;
+    transition: 0.2s ease;
 }
 
 img{
@@ -30,23 +33,24 @@ img{
 
 a{
     text-decoration: none;
-    color: black;
+    color: rgb(60, 50, 45);
 
 }
 
 p{
-    color: black;
+    color: rgb(60, 50, 45);
 }
 
 button:hover{
-    background: white;
+    background-color: rgb(195, 175, 155);
     font-weight: bold;
 }
 
 h1{
-    color: black;
+    color: rgb(60, 50, 45);
 }
 
 h4{
-    color: black;
+    color: rgb(60, 50, 45);
 }
+
